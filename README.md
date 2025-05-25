@@ -1,2 +1,1 @@
-# Minecraft Server Status
-Test Push
+**Minecraft Server IP:** `tcp://2.tcp.eu.ngrok.io:10693`
