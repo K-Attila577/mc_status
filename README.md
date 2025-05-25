@@ -1,1 +1,1 @@
-**Minecraft Server IP:** `tcp://5.tcp.eu.ngrok.io:10344`
+**Minecraft Server IP:** `tcp://6.tcp.eu.ngrok.io:11241`
